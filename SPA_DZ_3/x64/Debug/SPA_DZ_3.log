@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\adrian\source\repos\SPA_DZ_3\SPA_DZ_3\Source.cpp(146,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\adrian\source\repos\SPA_DZ_3\SPA_DZ_3\Source.cpp(150,10): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+  SPA_DZ_3.vcxproj -> C:\Users\adrian\source\repos\SPA_DZ_3\x64\Debug\SPA_DZ_3.exe
